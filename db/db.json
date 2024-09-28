@@ -1,0 +1,133 @@
+{
+    "product": [
+      {
+        "id": "c1",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c1.webp"
+      },
+      {
+        "id": "c2",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c2.webp"
+      },
+      {
+        "id": "c3",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c3.webp"
+      },
+      {
+        "id": "c4",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c4.webp"
+      },
+      {
+        "id": "c5",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c5.webp"
+      },
+      {
+        "id": "c6",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c6.webp"
+      },
+      {
+        "id": "c7",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c7.webp"
+      },
+      {
+        "id": "c8",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c8.webp"
+      },
+      {
+        "id": "c9",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c13.webp"
+      },
+      {
+        "id": "c10",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c10.webp"
+      },
+      {
+        "id": "c11",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c11.webp"
+      },
+      {
+        "id": "c12",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c12.webp"
+      },
+      {
+        "id": "c13",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c13.webp"
+      },
+      {
+        "id": "c14",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c14.webp"
+      },
+      {
+        "id": "c15",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c15.webp"
+      },
+      {
+        "id": "c16",
+        "name": "Our Classic Chocolate Truffle Cake",
+        "weight": "1kg",
+        "description": "Cake is happiness served on a plate.Cake is the perfect ending to any meal.",
+        "price": "500Rs",
+        "images": "c15.webp"
+      }
+     
+    ]
+  }
